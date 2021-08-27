@@ -1,0 +1,13 @@
+{
+    "name": "Global RPG Community",
+    "short_name": "GRC",
+    "orientation": "landscape",
+    "description": "",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": [96, 128, 192, 256]
+        }
+    ]
+}
